@@ -5,25 +5,33 @@ The Django Car Price Prediction Web App is a Django-based application that allow
 # Features
 
 User-Friendly Interface : The web app offers a simple HTML form where users can easily input car details .
+
 Machine Learning Model : Behind the scenes, we’ve trained a machine learning model using historical car data . 
+
 Predictive Power : By analyzing attributes like kilometers driven, age, and previous ownership, the app generates reliable price predictions .
+
 GitHub Repository : You can find the complete code and model in our GitHub repository .
 
 # How It Works
 
 Input Features : Users enter car details (make, model, year, etc.) via the web form .
+
 Model Prediction : The machine learning model processes the input and predicts the car’s price .
+
 Instant Results : Users receive an estimated price based on the provided features .
 
 # Deployment
 
 The app is deployed using Django and hosted on the pythonanywhere platform for easy access. Feel free to explore the live version here.
+
 click here : https://ghaithx.pythonanywhere.com/
 
 # Get Started
 
-Clone the repository : git clone https://github.com/GhaithRDX/Django-car-price-predictore.git 
+Clone the repository : git clone https://github.com/GhaithRDX/Django-car-price-predictore.git
+
 Install dependencies : pip install -r requirements.txt
+
 Run the Django server : python manage.py runserver
 
 # Feedback
